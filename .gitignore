@@ -1,3 +1,5 @@
+firmware/build
+firmware/.cache
 kicad/*.kicad_prl
 kicad/*-backups
 kicad/*.lck
