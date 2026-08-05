@@ -35,7 +35,7 @@ cd build
 cmake ..
 make -j$(nproc)
 ```
-3. Plug the pico in while holding the BOOTSEL button and run these with root privileges:
+3. Hold down the BOOTSEL button on the Pico while plugging it in. Then run these commands as root:
 ```
 picotool load firmware.uf2
 picotool reboot
