@@ -36047,7 +36047,7 @@
 		(layer "Edge.Cuts")
 		(uuid "cbad4957-97fa-4636-aef4-12141306a80a")
 	)
-	(gr_text "Oxide59\n\n© 2026 Jakub Świniarski"
+	(gr_text "Oxide\n\n© 2026 Jakub Świniarski"
 		(at 254.67 74.04 90)
 		(layer "B.SilkS")
 		(uuid "85e93727-ac88-4724-b8a7-20d6493f2e02")

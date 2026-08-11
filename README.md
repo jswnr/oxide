@@ -1,7 +1,5 @@
-# Oxide59
-A 59-key USB keyboard built with Raspberry Pi Pico
-
-![Keyboard](images/keyboard.jpg)
+# Oxide
+A 60-key USB keyboard built with Raspberry Pi Pico
 
 ## Default layout
 |         |       |       |       |       |       |       |       |       |       |        |       |                  |
@@ -23,8 +21,8 @@ A 59-key USB keyboard built with Raspberry Pi Pico
 | Male pin header        | 2.54 mm pitch, 20 pins           | 2        |
 | M2 screw               | Pan head, 6 mm long              | 8        |
 | M2 brass insert        | 6 mm long, 3.5 mm outer diameter | 8        |
-| Cherry MX switch       |                                  | 59       |
-| 1N4148 diode           |                                  | 59       |
+| Cherry MX switch       |                                  | 60       |
+| 1N4148 diode           |                                  | 60       |
 
 ## Firmware
 1. Install Pico SDK and Picotool.

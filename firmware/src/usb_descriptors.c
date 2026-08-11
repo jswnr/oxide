@@ -26,7 +26,7 @@
 #include "bsp/board_api.h"
 #include "tusb.h"
 
-#define USB_PID   0x0059
+#define USB_PID   0x1d33
 #define USB_VID   0xCafe
 #define USB_BCD   0x0200
 
@@ -130,7 +130,7 @@ static char const *string_desc_arr[] =
 {
   (const char[]) { 0x09, 0x04 }, // 0: is supported language is English (0x0409)
   "jswin.org",                   // 1: Manufacturer
-  "Oxide59",                     // 2: Product
+  "Oxide",                       // 2: Product
   NULL,                          // 3: Serials will use unique ID if possible
 };
 
