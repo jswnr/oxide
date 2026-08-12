@@ -143,7 +143,7 @@
 		)
 		(path "/9f17add2-988b-4ec3-b972-ebb9e4ec2230")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -435,7 +435,7 @@
 		)
 		(path "/61d546bc-1407-4f98-835c-86b00df1f78f")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -727,7 +727,7 @@
 		)
 		(path "/07a3e5bd-5bf1-4ade-bae3-378468609855")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1019,7 +1019,7 @@
 		)
 		(path "/d0cafc6e-1529-4cd1-8247-ee3044c46cfd")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1311,7 +1311,7 @@
 		)
 		(path "/8641e50d-589e-450d-a2a4-1e9e4be4edae")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1603,7 +1603,7 @@
 		)
 		(path "/6d001ba6-120a-4ea8-b861-605230d4aece")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1895,7 +1895,7 @@
 		)
 		(path "/46d1b8b6-0b24-4472-8a46-241aea857038")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2187,7 +2187,7 @@
 		)
 		(path "/4e4f32fd-af66-411f-aa83-4d9ad9fcd54b")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2479,7 +2479,7 @@
 		)
 		(path "/a209a406-64da-4854-acdf-6dc76381c7c0")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2771,7 +2771,7 @@
 		)
 		(path "/51ed4b31-8b0e-480f-bc57-4e94afd738d1")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3063,7 +3063,7 @@
 		)
 		(path "/7f0751b1-d4bb-4a3a-b6d1-83c18d9278e9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3355,7 +3355,7 @@
 		)
 		(path "/f623a82d-aed4-427b-a80f-802919d27c1d")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3647,7 +3647,7 @@
 		)
 		(path "/34d505d9-163b-4a5e-8fe7-cba881ca0756")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3939,7 +3939,7 @@
 		)
 		(path "/f3f90afb-a85c-40b8-a1d4-d45e001a2ceb")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4231,7 +4231,7 @@
 		)
 		(path "/c6bdb7b3-47cc-4cd8-a526-e43032a05664")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4523,7 +4523,7 @@
 		)
 		(path "/ee4c2f14-279d-4959-9e7d-7c876367abc5")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4815,7 +4815,7 @@
 		)
 		(path "/7838fdad-f484-402a-8e58-d307fac39024")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5107,7 +5107,7 @@
 		)
 		(path "/1861165b-96fa-40b2-9591-0f0a96f36ce1")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5399,7 +5399,7 @@
 		)
 		(path "/94729b00-34dd-4e34-8081-7bfbf12d9f20")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5691,7 +5691,7 @@
 		)
 		(path "/ef290b83-dac3-4b62-b77a-78859bfc3ff8")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5983,7 +5983,7 @@
 		)
 		(path "/ed468b62-1d9f-4f9a-82a5-b5db9d22bdd9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6275,7 +6275,7 @@
 		)
 		(path "/de286112-df83-42af-be7d-027460231cd5")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6567,7 +6567,7 @@
 		)
 		(path "/e9034645-714b-44ab-a020-ea9b3168355d")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6859,7 +6859,7 @@
 		)
 		(path "/1e3cf18f-f68d-4131-b3b1-dd1a63f47a08")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7151,7 +7151,7 @@
 		)
 		(path "/4b3cc407-0355-43ef-8841-b7d0e61105cd")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7443,7 +7443,7 @@
 		)
 		(path "/298b8b23-8ebb-48fe-91b1-60feea7ed886")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7735,7 +7735,7 @@
 		)
 		(path "/60928486-5813-4b69-9c65-68806963a471")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8027,7 +8027,7 @@
 		)
 		(path "/a460becf-5f9e-447d-8068-9b829b746cca")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8319,7 +8319,7 @@
 		)
 		(path "/7c50b457-aaaa-4230-8d7e-e820fa4c57c3")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8611,7 +8611,7 @@
 		)
 		(path "/c6c5bdc4-cd2f-42bc-914c-78f6568750bc")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8903,7 +8903,7 @@
 		)
 		(path "/8a5007d0-165e-4443-b652-37a507d4f4a7")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9195,7 +9195,7 @@
 		)
 		(path "/65bbd428-9fa2-40c5-8fbb-e0cf62071aa4")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9487,7 +9487,7 @@
 		)
 		(path "/532cdf75-42f1-421e-afad-c6f9ae9903cd")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9779,7 +9779,7 @@
 		)
 		(path "/75f08f1a-3a40-4767-a87c-0230844c03ee")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10071,7 +10071,7 @@
 		)
 		(path "/ba94b9c3-e85a-49ab-ab31-48213cb8a614")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10363,7 +10363,7 @@
 		)
 		(path "/b10f8d7c-08c0-46f4-9562-9968caa29a20")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10655,7 +10655,7 @@
 		)
 		(path "/636af664-2e72-4219-b053-8cee82193ff2")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10947,7 +10947,7 @@
 		)
 		(path "/9cbc967f-cdec-4976-b52f-e0bd4f2526bd")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11239,7 +11239,7 @@
 		)
 		(path "/4cc807f5-ac31-4a83-a0bf-f2e0830e5ab4")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11531,7 +11531,7 @@
 		)
 		(path "/ce4d47bd-97b3-4abc-9377-413acab7541d")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11823,7 +11823,7 @@
 		)
 		(path "/520621ed-646d-40c2-872e-a2e0fa3dc750")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12115,7 +12115,7 @@
 		)
 		(path "/69036052-9ba0-4124-83c4-3853b1d59c84")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12407,7 +12407,7 @@
 		)
 		(path "/754a0d23-6069-4ae8-a3ea-80a7bc863774")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12699,7 +12699,7 @@
 		)
 		(path "/b1dbeb8a-6875-466e-872f-c27194c1338c")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12991,7 +12991,7 @@
 		)
 		(path "/47327176-f09b-4757-83e1-821f52db1b03")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13283,7 +13283,7 @@
 		)
 		(path "/b1976c61-7f53-4245-adcf-d974b463a877")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13575,7 +13575,7 @@
 		)
 		(path "/4fc50446-c606-4ead-b1ef-9f65f510b6e9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13867,7 +13867,7 @@
 		)
 		(path "/cab0acc7-b78f-4f19-b88b-1c66443e06f4")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14159,7 +14159,7 @@
 		)
 		(path "/ef679fbb-12f0-4fe2-b033-9eb781a15eb6")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14451,7 +14451,7 @@
 		)
 		(path "/1e935786-409c-4286-9d74-e628415e3dd1")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14743,7 +14743,7 @@
 		)
 		(path "/878d42cb-495c-4b6b-8e0c-e236539f139e")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15035,7 +15035,7 @@
 		)
 		(path "/f218af38-d8a0-4698-a3c1-4ba3a1ca92c7")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15327,7 +15327,7 @@
 		)
 		(path "/82f6ff79-716a-413c-934c-8b8b977f4d69")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15619,7 +15619,7 @@
 		)
 		(path "/2b8adddb-0c37-49ab-841d-af2401b38355")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15911,7 +15911,7 @@
 		)
 		(path "/14fc015d-298f-4d67-8f3d-d10c69a176c7")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16203,7 +16203,7 @@
 		)
 		(path "/c0565455-2a87-4167-aa51-9bb4670dc79f")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16495,7 +16495,7 @@
 		)
 		(path "/be13d5fd-8309-481f-8a92-060111193734")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16787,7 +16787,7 @@
 		)
 		(path "/b51f3ea4-95bb-4de1-b1e2-c719bec653cc")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17079,7 +17079,7 @@
 		)
 		(path "/b7dcf306-576c-4d7c-a545-544a1d5896d7")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17371,7 +17371,7 @@
 		)
 		(path "/47a37450-9254-46ed-ac36-91b95c8a9305")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17705,7 +17705,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/362d3fad-8c6d-4362-b7d6-2621ddeb2046")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18017,7 +18017,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9a82062d-08de-4b58-ae41-01e81ca2a2ae")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18329,7 +18329,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/78bc8d20-47c3-48de-a990-3eb408e73d37")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18641,7 +18641,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/e2080865-3841-4210-b584-6f1c4dd758b9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18953,7 +18953,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/3d7cb9f2-bb66-4d85-af01-416aaea855d2")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19265,7 +19265,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6081dc2d-cc6d-488d-9ef1-758b560b0a64")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19577,7 +19577,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5e0e3bb6-ce1d-4b37-bee6-b9e68fab3fdc")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19889,7 +19889,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/33255dfd-b278-4855-96a6-5e9fa366ddd0")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20201,7 +20201,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/901dff7e-4f75-4e1d-b8ed-2754e51d3d08")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20513,7 +20513,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7be10913-0523-4ad7-9887-51c9588a7538")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20825,7 +20825,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/76f120d2-30ab-4295-a91a-f1f5278cd0f8")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21137,7 +21137,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c002e156-5af7-4222-936a-dad88fd79d47")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21449,7 +21449,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6e429421-7f66-4efd-9360-4d9abd979976")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21761,7 +21761,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/e0717bbf-c242-4bec-82ee-afac3692cb42")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22073,7 +22073,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/583dde85-dcf5-4406-97f5-4b10254d3913")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22385,7 +22385,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b1159560-f9eb-4446-9d07-888ff305943b")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22697,7 +22697,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ba7eb225-a6a0-4ffc-be27-2018f3dc1b76")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23009,7 +23009,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/aaf8bdc8-43e8-4231-87bc-a3dd34dc83d8")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23321,7 +23321,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b6e096f0-675a-48a7-8495-fa9e9f01fd63")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23633,7 +23633,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7c0a15af-e515-45e2-bfb7-efce08450d90")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23945,7 +23945,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ae6416cf-49fa-4411-8d81-9f1dc90746fc")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24257,7 +24257,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/61405ac1-3793-4d17-ab55-b08a5338a29f")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24569,7 +24569,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/f31d255f-45dd-4060-93ef-0ef1042bcdbf")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24881,7 +24881,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c4b1b7c9-ef4e-419c-9b75-d7d62be264b2")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25193,7 +25193,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/63e664d0-f3b1-4f7e-b409-7bec83b602b9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25505,7 +25505,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6793f345-f797-45f5-bb07-d7191011cee0")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25817,7 +25817,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/4e28778a-78a2-441b-8c86-141c892a91e5")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26129,7 +26129,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7b098dcb-3e16-4dae-b8cf-5033ad07c631")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26441,7 +26441,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/8253d590-05ff-4c24-9f6a-ae0a1df68884")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26753,7 +26753,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/0ba3eb4d-2d6b-46db-b62c-6b9114ac8f60")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27029,7 +27029,7 @@
 		(property ki_fp_filters "RaspberryPi?Pico?Common* RaspberryPi?Pico?SMD*")
 		(path "/8b0c92d7-ad93-4c74-9895-85ebb13b6cde")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28119,7 +28119,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/39926669-e022-42e2-8536-1e44417f5d4d")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28431,7 +28431,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/6e3a3608-0758-44fd-8a46-d2d6c6d316f1")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28743,7 +28743,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a3c90def-cd3f-46eb-8c2b-1a8c5107dea7")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29055,7 +29055,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/614d5843-a7be-4e11-8b0e-91691e022cfc")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29367,7 +29367,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/eb1e98dd-e338-4dbf-a2a8-c2d942ffdb47")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29679,7 +29679,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/776f09ba-67ff-402f-8437-170bd2742e60")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29991,7 +29991,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/8257f8de-f2bd-430b-86c0-3bb5256e312f")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30303,7 +30303,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/08622cbc-a145-418f-8d94-5c40ceb5ea7b")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30615,7 +30615,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/5bec0e9a-150f-4e63-bf7d-b4871379c799")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30927,7 +30927,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/646eaca2-cc1e-4e95-8495-3939cabc65b9")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31240,7 +31240,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/68480a04-ede6-42cd-add1-72d70391f802")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31552,7 +31552,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/7cac8201-75e2-4d2e-8447-01b2a7a92a0f")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31864,7 +31864,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c560ab63-b3c9-43fc-be2c-372ce6669823")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32176,7 +32176,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/716b2a55-fbb7-42d9-a97e-2343ed361a9a")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32488,7 +32488,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/bed5bcdd-3fc6-49b0-9401-c44c0cc5cd40")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32800,7 +32800,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/723380a2-c9b9-4e5a-ac50-769dae2a3974")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33112,7 +33112,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/402f51b1-70d6-4782-8fb8-03554aac84be")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33424,7 +33424,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/01857649-c460-462c-aff3-9c0a5a129558")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33736,7 +33736,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/45e79e52-800e-459d-a2c3-ad810ab57f67")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34048,7 +34048,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a50b51ed-50e1-4922-b296-209ab6c10df6")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34360,7 +34360,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ddafbedf-49e6-40ff-81cf-31e7b3e92dd8")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34672,7 +34672,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/09688ed0-1661-470b-bb1a-1040cf864576")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34984,7 +34984,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c0538b48-a1e2-4f23-98fa-7e35033f51bf")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35296,7 +35296,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/83f1c73a-1e90-49fe-b50a-da353b179391")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35608,7 +35608,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b3ec94ff-3542-4511-873c-5fe93cd4cc0a")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35920,7 +35920,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/377da5ed-137b-4076-99a0-512d8afba7c0")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36232,7 +36232,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/092880f8-d695-4a6b-b69f-f6e0b1cd48da")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36544,7 +36544,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d0aace92-cbe7-4269-8e3f-fffd0a4098b2")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36856,7 +36856,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9ec63ce9-ba90-4182-8095-2c4b3d157d5c")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37168,7 +37168,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/acb8ebda-3952-43ad-b1b6-417995578942")
 		(sheetname "/")
-		(sheetfile "keyboard.kicad_sch")
+		(sheetfile "oxide.kicad_sch")
 		(units
 			(unit
 				(name "A")

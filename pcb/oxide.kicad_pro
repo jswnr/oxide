@@ -489,7 +489,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard.kicad_pro",
+    "filename": "oxide.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -656,8 +656,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "keyboard.kicad_sch",
-        "name": "keyboard",
+        "filename": "oxide.kicad_sch",
+        "name": "oxide",
         "uuid": "61642316-f0b7-413d-bb38-e95d75ab1db2"
       }
     ],
