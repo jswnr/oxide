@@ -3,5 +3,6 @@ firmware/.cache
 kicad/*.kicad_prl
 kicad/*-backups
 kicad/*.lck
+kicad/_autosave-*
 kicad/\#auto_saved_files\#
 kicad/fp-info-cache

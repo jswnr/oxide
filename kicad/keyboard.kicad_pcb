@@ -27258,7 +27258,7 @@
 			(roundrect_rratio 0.125)
 			(net "unconnected-(A1-GPIO0-Pad1)")
 			(pinfunction "GPIO0_1")
-			(pintype "bidirectional")
+			(pintype "bidirectional+no_connect")
 			(uuid "aa125afe-0062-46cd-9d36-6e2eb325e11d")
 		)
 		(pad "2" thru_hole circle
