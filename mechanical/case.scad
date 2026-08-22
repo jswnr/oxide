@@ -4,56 +4,47 @@
  * SPDX-License-Identifier: CERN-OHL-P-2.0
  */
 
-$fn         = 100;
-pcb_t       = 1.2;
-insert_d    = 3.5;
-thread_l    = 6;
-extra_h     = 5;
-case_t      = 2.5;
-pcb_l       = 244;
-pcb_w       = 92;
-margin      = 0.5;
-boss_hole_r = (insert_d - 0.2) / 2;
-boss_r      = boss_hole_r + 2;
-boss_h      = thread_l + 2;
-rod_r       = 1.5;
-rod_h       = boss_h;
-gusset_l    = 2;
-gusset_t    = 0.8;
-wall_l      = 4 + margin;
-wall_t      = 1.5;
+$fn = 100;
 
-wall_h_pos = [
-    [0, 55.5],
-    [pcb_l + (2 * margin) - wall_l, 55.5]
-];
-wall_v_pos = [
-    [46, 0],
-    [110, 0],
-    [186, 0],
-    [84, pcb_w + (2 * margin) - wall_l],
-    [148, pcb_w + (2 * margin) - wall_l],
-];
+pcb_l = 224.7;
+pcb_w = 91.7;
+pcb_t = 1.2;
+
+extra_h = 6;
+case_t = 2.5;
+margin = 0.5;
+
+insert_d = 3.5;
+thread_l = 6;
+
+boss_hole_r = (insert_d - 0.2) / 2;
+boss_r = boss_hole_r + 2;
+boss_h = thread_l + 2;
+
+rod_r = 1.5;
+rod_h = boss_h;
+
+gusset_l = 2;
+gusset_t = 0.8;
+
 boss_pos = [
-    [17.5, 17.5],
-    [74.5, 17.5],
-    [150.5, 17.5],
-    [226.5, 17.5],
-    [74.5, 55.5],
-    [150.5, 55.5],
-    [17.5, 74.5],
-    [210.5, 67.5]
+    [17.35, 17.35],
+    [74.35, 17.35],
+    [150.35, 17.35],
+    [207.35, 17.35],
+
+    [17.35, 74.35],
+    [74.35, 74.35],
+    [150.35, 74.35],
+    [207.35, 74.35]
 ];
+
 rod_pos = [
-    [36.5, 36.5],
-    [112.5, 36.5],
-    [188.5, 36.5],
-    [55.5, 74.5],
-    [112.5, 74.5],
-    [169.5, 74.5]
+    [45.85, 40],
+    [112.35, 54],
+    [112.35, 17.35],
+    [178.85, 40]
 ];
-usb_pos = [226, pcb_w, case_t + rod_h + pcb_t];
-usb_size = [15, case_t + 10, extra_h + 10];
 
 module box() {
     minkowski() {
@@ -73,11 +64,6 @@ module cavity() {
             pcb_w + (2 * margin),
             rod_h + extra_h + 10
         ]);
-    
-    translate([(usb_pos[0] + margin) - (usb_size[0] / 2),
-               (usb_pos[1] + margin),
-               usb_pos[2]])
-        cube(usb_size);
 }
 
 module gusset(rod_r, n) {
@@ -120,14 +106,6 @@ translate([-(pcb_l / 2), -(pcb_w / 2), 0])
         difference() {
             box();
             cavity();
-        }
-        for (w = wall_h_pos) {
-            translate([w[0], w[1] + margin, case_t])
-                cube([wall_l, wall_t, rod_h]);
-        }
-        for (w = wall_v_pos) {
-            translate([w[0] + margin, w[1], case_t])
-                cube([wall_t, wall_l, rod_h]);
         }
         for (r = boss_pos) {
             boss(r[0] + margin, r[1] + margin);
