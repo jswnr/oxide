@@ -5,27 +5,63 @@
  */
 
 $fn = 100;
+eps = 0.01;
 
 pcb_l = 224.7;
 pcb_w = 91.7;
 pcb_t = 1.2;
+pcb_m = 0.5;
 
 extra_h = 6;
 case_t = 2.5;
-margin = 0.5;
+
+insulator_h = 2.54;
+pico_h = 3.9;
+pico_m = 2;
+pico_bootsel_r = 1.5;
+pico_tht_h = pico_h + insulator_h;
 
 insert_d = 3.5;
-thread_l = 6;
-
-boss_hole_r = (insert_d - 0.2) / 2;
-boss_r = boss_hole_r + 2;
-boss_h = thread_l + 2;
+boss_hole_undersize_d = 0.2;
+boss_t = 2;
 
 rod_r = 1.5;
-rod_h = boss_h;
 
 gusset_l = 2;
 gusset_t = 0.8;
+
+// TODO: thinner case wall around USB cutout
+usb_lt = 5.2;
+usb_lb = 8;
+usb_h = 2.9;
+usb_wall_h = 1.5;
+usb_m = 0.2;
+
+boss_hole_r = (insert_d - boss_hole_undersize_d) / 2;
+boss_r = boss_hole_r + boss_t;
+boss_h = pico_tht_h + pico_m;
+
+rod_h = boss_h;
+
+usb_slope_l = (usb_lb - usb_lt) / 2;
+
+// TODO: MARGINS
+usb_poly = [
+    [0, 0],
+    [usb_lb, 0],
+    [usb_lb, usb_wall_h],
+    [usb_lb - usb_slope_l, usb_h],
+    [usb_slope_l, usb_h],
+    [0, usb_wall_h]
+];
+
+// For (x, y) positions, the point (0, 0) is the bottom-left corner of the PCB.
+
+pico_bootsel_x = 49.3;
+pico_bootsel_y = 79.7;
+
+usb_x = 42;
+usb_z = case_t + boss_h - pico_tht_h;
 
 boss_pos = [
     [17.35, 17.35],
@@ -49,8 +85,8 @@ rod_pos = [
 module box() {
     minkowski() {
         cube([
-            pcb_l + (2 * margin),
-            pcb_w + (2 * margin),
+            pcb_l + (2 * pcb_m),
+            pcb_w + (2 * pcb_m),
             case_t + rod_h + pcb_t + extra_h - 1
         ]);
         cylinder(r = case_t, h = 1);
@@ -60,10 +96,19 @@ module box() {
 module cavity() {
     translate([0, 0, case_t])
         cube([
-            pcb_l + (2 * margin),
-            pcb_w + (2 * margin),
-            rod_h + extra_h + 10
+            pcb_l + (2 * pcb_m),
+            pcb_w + (2 * pcb_m),
+            rod_h + pcb_t + extra_h + eps
         ]);
+
+    translate([usb_x + pcb_m, pcb_w + (2 * pcb_m) - eps, usb_z])
+        translate([0, case_t + (2 * eps), 0])
+            rotate([90, 0, 0])
+                linear_extrude(height = case_t + (2 * eps))
+                    polygon(points = usb_poly);
+
+    translate([pico_bootsel_x + pcb_m, pico_bootsel_y + pcb_m, -eps])
+        cylinder(r = pico_bootsel_r, h = (2 * eps) + case_t);
 }
 
 module gusset(rod_r, n) {
@@ -86,7 +131,7 @@ module boss(x, y) {
     translate([x, y, case_t])
         difference() {
             cylinder(r = boss_r, h = boss_h);
-            translate([0, 0, 0.01])
+            translate([0, 0, eps])
                 cylinder(r = boss_hole_r, h = boss_h);
         }
 }
@@ -108,9 +153,9 @@ translate([-(pcb_l / 2), -(pcb_w / 2), 0])
             cavity();
         }
         for (r = boss_pos) {
-            boss(r[0] + margin, r[1] + margin);
+            boss(r[0] + pcb_m, r[1] + pcb_m);
         }
         for (r = rod_pos) {
-            rod(r[0] + margin, r[1] + margin);
+            rod(r[0] + pcb_m, r[1] + pcb_m);
         }
     }

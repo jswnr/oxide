@@ -16,7 +16,7 @@ union() {
             translate([0, 0, cap_h - curve_r])
                 sphere(r = curve_r);
         }
-        translate([0, 0, -0.01])
+        translate([0, 0, -eps])
             frustum(cavity_lb, cavity_lt, rod_h);
     }
     interior();
