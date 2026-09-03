@@ -10,8 +10,8 @@
 #include "kbd.h"
 #include "layout.h"
 
-static const uint8_t col_to_gpio[N_COLS] = { 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 15, 18 };
-static const uint8_t row_to_gpio[N_ROWS] = { 16, 17, 13, 7, 0 };
+static const uint8_t col_to_gpio[N_COLS] = { 21, 22, 1, 3, 6, 5, 4, 12, 11, 10, 9, 8 };
+static const uint8_t row_to_gpio[N_ROWS] = { 15, 16, 14, 7, 2 };
 
 static uint64_t row_settle_us = 5;
 

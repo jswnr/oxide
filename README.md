@@ -2,13 +2,13 @@
 A 60-key USB keyboard built with Raspberry Pi Pico
 
 ## Default layout
-|         |       |       |       |       |       |       |       |       |       |        |       |                  |
-|---------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|-------|------------------|
-| \`~     | 1! F1 | 2@ F2 | 3# F3 | 4$ F4 | 5% F5 | 6^ F6 | 7& F7 | 8* F8 | 9( F9 | 0) F10 |       |                  |
-| Tab     | Q     | W     | E     | R     | T     | Y     | U     | I     | O     | P  F11 |       |                  |
-| Esc     | A     | S     | D     | F     | G     | H ←   | J ↓   | K ↑   | L →   | ;: F12 |       |                  |
-| Shift   | Z     | X     | C     | V     | B     | N     | M     | ,<    | .>    | /?     | Enter | Backspace Delete |
-| Control | Fn    | Super | Alt   | AltGr | Space | Space | [{    | ]}    | \\\|  | '"     | -_    | =+               |
+|         |        |        |        |        |        |        |        |        |        |         |               |
+|---------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------------|
+| \` ~    | 1 ! F1 | 2 @ F2 | 3 # F3 | 4 $ F4 | 5 % F5 | 6 ^ F6 | 7 & F7 | 8 * F8 | 9 ( F9 | 0 ) F10 | Backspace F11 |
+| Tab     | Q      | W      | E      | R      | T      | Y      | U      | I      | O      | P       | Delete F12    |
+| Esc     | A      | S      | D      | F      | G      | H ←    | J ↓    | K ↑    | L →    | ; :     | Enter         |
+| Shift   | Z      | X      | C      | V      | B      | N      | M      | , <    | . >    | / ?     | ' "           |
+| Control | Fn     | Super  | \\\ |  | Alt    | Space  | Space  | AltGr  | [ {    | ] }    | - _     | = +           |
 
 ## Bill of materials
 | Name                   | Details                          | Quantity |
@@ -33,7 +33,7 @@ cd build
 cmake ..
 make -j$(nproc)
 ```
-3. Hold down the BOOTSEL button on the Pico while plugging it in. Then run these commands as root:
+3. Hold down the BOOTSEL button on the Pico while plugging it in. Then run the following commands as root:
 ```
 picotool load firmware.uf2
 picotool reboot
