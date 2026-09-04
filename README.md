@@ -2,13 +2,13 @@
 A 60-key USB keyboard built with Raspberry Pi Pico
 
 ## Default layout
-|         |        |        |        |        |        |        |        |        |        |         |               |
-|---------|--------|--------|--------|--------|--------|--------|--------|--------|--------|---------|---------------|
-| \` ~    | 1 ! F1 | 2 @ F2 | 3 # F3 | 4 $ F4 | 5 % F5 | 6 ^ F6 | 7 & F7 | 8 * F8 | 9 ( F9 | 0 ) F10 | Backspace F11 |
-| Tab     | Q      | W      | E      | R      | T      | Y      | U      | I      | O      | P       | Delete F12    |
-| Esc     | A      | S      | D      | F      | G      | H ←    | J ↓    | K ↑    | L →    | ; :     | Enter         |
-| Shift   | Z      | X      | C      | V      | B      | N      | M      | , <    | . >    | / ?     | ' "           |
-| Control | Fn     | Super  | \\\ |  | Alt    | Space  | Space  | AltGr  | [ {    | ] }    | - _     | = +           |
+|         |      |       |      |      |       |       |       |      |      |       |               |
+|---------|------|-------|------|------|-------|-------|-------|------|------|-------|---------------|
+| \`      | 1 F1 | 2 F2  | 3 F3 | 4 F4 | 5 F5  | 6 F6  | 7 F7  | 8 F8 | 9 F9 | 0 F10 | Backspace F11 |
+| Tab     | Q    | W     | E    | R    | T     | Y     | U     | I    | O    | P     | Delete F12    |
+| Esc     | A    | S     | D    | F    | G     | H ←   | J ↓   | K ↑  | L →  | ;     | Enter         |
+| Shift   | Z    | X     | C    | V    | B     | N     | M     | ,    | .    | /     | '             |
+| Control | Fn   | Super | \\   | Alt  | Space | Space | AltGr | [    | ]    | -     | =             |
 
 ## Bill of materials
 | Name                   | Details                          | Quantity |
