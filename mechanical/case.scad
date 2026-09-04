@@ -30,12 +30,13 @@ rod_r = 1.5;
 gusset_l = 2;
 gusset_t = 0.8;
 
-// TODO: thinner case wall around USB cutout
 usb_lt = 5.2;
 usb_lb = 8;
-usb_h = 2.9;
-usb_wall_h = 1.5;
+usb_h = 3;
+usb_wall_h = 1.7;
 usb_m = 0.2;
+usb_overhang = 1.3;
+usb_recess_m = 3;
 
 boss_hole_r = (insert_d - boss_hole_undersize_d) / 2;
 boss_r = boss_hole_r + boss_t;
@@ -45,15 +46,17 @@ rod_h = boss_h;
 
 usb_slope_l = (usb_lb - usb_lt) / 2;
 
-// TODO: MARGINS
 usb_poly = [
-    [0, 0],
-    [usb_lb, 0],
-    [usb_lb, usb_wall_h],
-    [usb_lb - usb_slope_l, usb_h],
-    [usb_slope_l, usb_h],
-    [0, usb_wall_h]
+    [-usb_m, -usb_m],
+    [usb_lb + usb_m, -usb_m],
+    [usb_lb + usb_m, usb_wall_h + usb_m],
+    [usb_lb - usb_slope_l + usb_m, usb_h + usb_m],
+    [usb_slope_l - usb_m, usb_h + usb_m],
+    [-usb_m, usb_wall_h + usb_m]
 ];
+
+usb_recess_w = case_t - (usb_overhang - pcb_m);
+usb_recess_r = (usb_h + (2 * usb_recess_m)) / 2;
 
 // For (x, y) positions, the point (0, 0) is the bottom-left corner of the PCB.
 
@@ -106,6 +109,18 @@ module cavity() {
             rotate([90, 0, 0])
                 linear_extrude(height = case_t + (2 * eps))
                     polygon(points = usb_poly);
+
+    translate([usb_x + pcb_m, pcb_w + (2 * pcb_m) + case_t - usb_recess_w + eps, usb_z - usb_recess_m])
+        union() {
+            cube([usb_lb, usb_recess_w, usb_h + (2 * usb_recess_m)]);
+            translate([0, usb_recess_w, usb_recess_r])
+                rotate([90, 0, 0])
+                    cylinder(r = usb_recess_r, usb_recess_w);
+            translate([usb_lb, usb_recess_w, usb_recess_r])
+                rotate([90, 0, 0])
+                    cylinder(r = usb_recess_r, usb_recess_w);
+        }
+
 
     translate([pico_bootsel_x + pcb_m, pico_bootsel_y + pcb_m, -eps])
         cylinder(r = pico_bootsel_r, h = (2 * eps) + case_t);
