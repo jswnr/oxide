@@ -16,10 +16,9 @@ extra_h = 6;
 case_t = 2.5;
 
 insulator_h = 2.54;
-pico_h = 3.9;
+pico_h = 3.77;
 pico_m = 2;
 pico_bootsel_r = 1.5;
-pico_tht_h = pico_h + insulator_h;
 
 insert_d = 3.5;
 boss_hole_undersize_d = 0.2;
@@ -37,6 +36,8 @@ usb_wall_h = 1.7;
 usb_m = 0.2;
 usb_overhang = 1.3;
 usb_recess_m = 3;
+
+pico_tht_h = pico_h + insulator_h;
 
 boss_hole_r = (insert_d - boss_hole_undersize_d) / 2;
 boss_r = boss_hole_r + boss_t;
@@ -79,10 +80,8 @@ boss_pos = [
 ];
 
 rod_pos = [
-    [45.85, 40],
     [112.35, 54],
     [112.35, 17.35],
-    [178.85, 40]
 ];
 
 module box() {
@@ -104,13 +103,17 @@ module cavity() {
             rod_h + pcb_t + extra_h + eps
         ]);
 
-    translate([usb_x + pcb_m, pcb_w + (2 * pcb_m) - eps, usb_z])
+    translate([usb_x + pcb_m,
+               pcb_w + (2 * pcb_m) - eps,
+               usb_z])
         translate([0, case_t + (2 * eps), 0])
             rotate([90, 0, 0])
                 linear_extrude(height = case_t + (2 * eps))
                     polygon(points = usb_poly);
 
-    translate([usb_x + pcb_m, pcb_w + (2 * pcb_m) + case_t - usb_recess_w + eps, usb_z - usb_recess_m])
+    translate([usb_x + pcb_m,
+               pcb_w + (2 * pcb_m) + case_t - usb_recess_w + eps,
+               usb_z - usb_recess_m])
         union() {
             cube([usb_lb, usb_recess_w, usb_h + (2 * usb_recess_m)]);
             translate([0, usb_recess_w, usb_recess_r])
