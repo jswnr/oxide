@@ -13,8 +13,6 @@ A 60-key USB keyboard built with Raspberry Pi Pico
 ## Bill of materials
 | Name                   | Details                          | Quantity |
 |------------------------|----------------------------------|----------|
-| 3D printing filament   | SUNLU PLA+ 2.0 was used          | A/R      |
-| Solder                 |                                  | A/R      |
 | PCB                    | 1.2 mm thickness                 | 1        |
 | Raspberry Pi Pico      |                                  | 1        |
 | USB-A to Micro-B cable |                                  | 1        |
