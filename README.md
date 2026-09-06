@@ -11,23 +11,23 @@ A 60-key USB keyboard built with Raspberry Pi Pico
 | Control | Fn   | Super | \\   | Alt  | Space | Space | AltGr | [    | ]    | -     | =             |
 
 ## Bill of materials
-| Name                   | Details                          | Quantity |
+| Component              | Details                          | Quantity |
 |------------------------|----------------------------------|----------|
-| PCB                    | 1.2 mm thickness                 | 1        |
+| PCB                    | 1.2 mm thick                     | 1        |
 | Raspberry Pi Pico      |                                  | 1        |
 | Male pin header        | 2.54 mm pitch, 20 pins           | 2        |
 | Cherry MX switch       |                                  | 60       |
-| 1N4148 diode           |                                  | 60       |
-| Case                   | case.scad                        | 1        |
-| Homing keycap          | keycap_homing.scad               | 2        |
-| Space keycap           | keycap_space.scad                | 2        |
-| Keycap                 | keycap.scad                      | 56       |
+| 1N4148 diode           | DO-35 package                    | 60       |
+| Case                   | `case.scad`                      | 1        |
+| Homing keycap          | `keycap_homing.scad`             | 2        |
+| Space keycap           | `keycap_space.scad`              | 2        |
+| Keycap                 | `keycap.scad`                    | 56       |
 | M2 screw               | Pan head, 6 mm long              | 8        |
 | M2 brass insert        | 6 mm long, 3.5 mm outer diameter | 8        |
 
 ## Firmware
 1. Install Pico SDK and Picotool.
-2. Navigate to the ```firmware``` directory and run:
+2. Navigate to the `firmware` directory and run:
 ```
 mkdir build
 cd build
