@@ -17,10 +17,14 @@ A 60-key USB keyboard built with Raspberry Pi Pico
 | Raspberry Pi Pico      |                                  | 1        |
 | USB-A to Micro-B cable |                                  | 1        |
 | Male pin header        | 2.54 mm pitch, 20 pins           | 2        |
-| M2 screw               | Pan head, 6 mm long              | 8        |
-| M2 brass insert        | 6 mm long, 3.5 mm outer diameter | 8        |
 | Cherry MX switch       |                                  | 60       |
 | 1N4148 diode           |                                  | 60       |
+| Case                   | case.scad                        | 1        |
+| Homing keycap          | keycap_homing.scad               | 2        |
+| Space keycap           | keycap_space.scad                | 2        |
+| Keycap                 | keycap.scad                      | 56       |
+| M2 screw               | Pan head, 6 mm long              | 8        |
+| M2 brass insert        | 6 mm long, 3.5 mm outer diameter | 8        |
 
 ## Firmware
 1. Install Pico SDK and Picotool.
