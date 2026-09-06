@@ -15,7 +15,6 @@ A 60-key USB keyboard built with Raspberry Pi Pico
 |------------------------|----------------------------------|----------|
 | PCB                    | 1.2 mm thickness                 | 1        |
 | Raspberry Pi Pico      |                                  | 1        |
-| USB-A to Micro-B cable |                                  | 1        |
 | Male pin header        | 2.54 mm pitch, 20 pins           | 2        |
 | Cherry MX switch       |                                  | 60       |
 | 1N4148 diode           |                                  | 60       |
